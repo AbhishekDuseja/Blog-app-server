@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "ABHISHEKSQL",
+    "database": "blog-app",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "ABHISHEKSQL",
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "ABHISHEKSQL",
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
